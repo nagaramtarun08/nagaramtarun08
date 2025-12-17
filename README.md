@@ -1,5 +1,6 @@
 ## Hi there 👋
-# 💫 About Me:
+
+## 💫 About Me:
 🎓 AIML Undergraduate<br>🤖 AI & ML Explorer<br>📊 Future Data Scientist<br>🧠 Passionate about building real-world AI solutions<br>🔍 Curious about how data, models, and decisions connect<br>🚀 Focused on learning by experimenting, building, and improving through practice
 
 
